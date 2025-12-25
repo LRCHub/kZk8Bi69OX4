@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "サイン",
+  "base_artist": "小山田壮平",
+  "createdAt": "2025-12-25T05:39:47.651931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サイン・オブ・フィア",
+      "artist": "Primal Fear",
+      "has_synced": false,
+      "path": "select/01_サイン・オブ・フィア_Primal_Fear.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サイン",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/02_サイン_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サイン",
+      "artist": "mei ehara",
+      "has_synced": true,
+      "path": "select/03_サイン_mei_ehara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プリズム・サイン",
+      "artist": "eufonius",
+      "has_synced": false,
+      "path": "select/04_プリズム・サイン_eufonius.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サイン(Game Arrange Version)",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/05_サイン(Game_Arrange_Version)_いとうかなこ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイン",
+      "artist": "小山田壮平",
+      "has_synced": false,
+      "path": "select/pl_01_サイン_小山田壮平.txt"
+    }
+  ]
+}
